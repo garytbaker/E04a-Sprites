@@ -1,6 +1,10 @@
 # E04a-Sprites
 This is an exercise to start playing with sprites and physics in Godot.
 
+
+I have finished this assignment and this is my edit to the readme.
+
+
 First, Fork and Clone this repository. Then open the Godot Project Manager and press Import. Navigate to the E04a-Sprites folder that GitHub Desktop created on your computer, and select the godot.project file. Press the Import & Edit button.
 
 You should now be seeing the 2D view of the project, with a large colorful rectangle around the viewport. There should also be a sprite of a man on the screen. If you run the project, he should fall to the bottom of the window and begin bouncing around.
